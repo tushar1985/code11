@@ -1,0 +1,6 @@
+,Asbestos,Battery,Car tires,Christmas trees,Construction and demolition waste,Paint on the street,Small toxic waste
+0,"('asbestos', 0.6631)","('battery', 0.5316)","('tires', 0.537)","('tree', 0.5267)","('demolition', 0.6029)","('painted', 0.552)","('spray', 0.5035)"
+1,"('debris', 0.4905)","('parking', 0.3568)","('tire', 0.4982)","('trees', 0.4675)","('debris', 0.5603)","('paint', 0.5289)","('paint', 0.481)"
+2,"('rubble', 0.4203)","('car', 0.3209)","('van', 0.4554)","('christmas', 0.4672)","('abandoned', 0.5344)","('street', 0.4376)","('trash', 0.4715)"
+3,"('trash', 0.4036)","('tires', 0.3147)","('demolition', 0.4038)","('pine', 0.3198)","('rubble', 0.5152)","('stains', 0.4251)","('sprayed', 0.4581)"
+4,"('dumping', 0.3913)","('street', 0.2962)","('ditch', 0.3876)","('bushes', 0.3121)","('excavation', 0.4894)","('dirty', 0.4122)","('cleaned', 0.4525)"
